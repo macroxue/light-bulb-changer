@@ -1,6 +1,6 @@
 # Light Bulb Changer
 
-https://user-images.githubusercontent.com/1887856/150269304-752e7534-c123-44d4-9a82-e1bca40d3aa0.mp4
+https://user-images.githubusercontent.com/1887856/150277999-da080e1b-be22-4c13-8dce-751dee5e4eae.mp4
 
 Check [this Reddit post](https://www.reddit.com/r/functionalprint/comments/s6c34k/changed_light_bulbs_14_feet_above_ground_with_3d/) 
 to read what Redditers in [r/functionalprint](https://www.reddit.com/r/functionalprint/) said about this design.
