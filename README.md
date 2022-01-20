@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/1887856/150269304-752e7534-c123-44d4-9
 
 * 3D printer
 * PVC pipe cutter or saw
-* Screw driver or Allen wrench 
+* Screw driver or Allen wrench
 
 ## Build the Hand
 ![changer-hand](https://user-images.githubusercontent.com/1887856/150272896-3bd0dd62-9640-40e6-b06b-c5ca14959260.jpg)
@@ -41,6 +41,8 @@ Wrap rubber bands tightly to the tips of the fingers. Put one rubber band throug
 * 2x [stopper.stl](https://github.com/macroxue/light-bulb-changer/blob/master/stopper.stl)
 
 Assemble the pulley system according to the 3D animation above. In my case, the pulleys are about 5 feet apart on a pipe of 7 feet.
+
+Ruber bands can be put in the groove of a pulley to add more grip.
 
 ## Adjustment
 
