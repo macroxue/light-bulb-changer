@@ -24,7 +24,7 @@ to read what Redditers in [r/functionalprint](https://www.reddit.com/r/functiona
 ## Build the Hand
 ![changer-hand](https://user-images.githubusercontent.com/1887856/150272896-3bd0dd62-9640-40e6-b06b-c5ca14959260.jpg)
 
-3D-print the following pieces.
+3D-print the following pieces. Fast print mode is fine since the pieces don't need to be super precise.
 * 6x [finger.stl](https://github.com/macroxue/light-bulb-changer/blob/master/finger.stl)
 * 1x [wrist.stl](https://github.com/macroxue/light-bulb-changer/blob/master/wrist.stl)
 
@@ -45,7 +45,7 @@ Wrap rubber bands tightly to the tips of the fingers. Put one rubber band throug
 
 Assemble the pulley system according to the 3D animation above. In my case, the pulleys are about 5 feet apart on a pipe of 7 feet.
 
-Ruber bands can be put in the groove of a pulley to add more grip.
+Rubber bands can be put in the groove of a pulley to add more grip.
 
 ## Adjustment
 
