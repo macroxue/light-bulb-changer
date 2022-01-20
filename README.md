@@ -50,3 +50,5 @@ Rubber bands can be put in the groove of a pulley to add more grip.
 ## Adjustment
 
 Since the 1/2 in. PVC pipe was too flexible, it's put inside a stainless steel telescoping pipe savaged from an old clothes rack. In retrospect, the steel pipe alone could be sufficient but I didn't want to redesign the 3D-printed parts.
+
+The hand may be attached to the other end of the pipe so it can change light bulbs in the ceiling or on a celling fan. However, it may not work well for light bulbs with a flat bottom as the fingers can't open eaisly when pushed against the bottom.
