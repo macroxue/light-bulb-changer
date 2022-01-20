@@ -2,6 +2,9 @@
 
 https://user-images.githubusercontent.com/1887856/150269304-752e7534-c123-44d4-9a82-e1bca40d3aa0.mp4
 
+Check [this Reddit post](https://www.reddit.com/r/functionalprint/comments/s6c34k/changed_light_bulbs_14_feet_above_ground_with_3d/) 
+to read what Redditers in [r/functionalprint](https://www.reddit.com/r/functionalprint/) said about this design.
+
 ## Parts
 
 * 1/2 in. x 10 ft. PVC schedule 40 pipe. (In retrospect, the pipe is too flexible so 3/4 in. could work better.)
@@ -47,7 +50,3 @@ Ruber bands can be put in the groove of a pulley to add more grip.
 ## Adjustment
 
 Since the 1/2 in. PVC pipe was too flexible, it's put inside a stainless steel telescoping pipe savaged from an old clothes rack. In retrospect, the steel pipe alone could be sufficient but I didn't want to redesign the 3D-printed parts.
-
-
-
-
